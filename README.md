@@ -1,12 +1,19 @@
-# 1.3  Ejercicios de C++ para mediar al grupo vía GitHub Classroom
+##      TECNOLÓGICO NACIONAL DE MÉXICO
+##      INSTITUTO TECNOLÓGICO DE TIJUANA 
 
-## CONDICIONES 
-- Libro PDF de "Problemas a resolver por computadora" es libro clásico, debe Ud de modificar el enunciado para adecuarlo a su generación por ejemplo: IMPRIMIR .... es ahora "desplegar en pantalla".
-- Si el problema se dificulta seleccione 3 problemas adicionales del Capitulo 3 al 5.
-- Solo 10 problemas a resolver y están en aleatorio las condiciones de uso, algunos simples otros de recordar, etc.
+## 	     SUBDIRECCIÓN ACADÉMICA
+## DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+##    ING. EN SISTEMAS COMPUTACIONALES
+
+
+# 1.3  Ejercicios de C++ para mediar al grupo vía GitHub Classroom
 
 ## Libro a utilizar
 - Problemas para resolver con la computadora.
+
+## Los ejercicios realizados corresponden al Capitulo 9 (Ejercicio 1-10) del libro de ejercicios.
+- Tambien anexado el primer ejercicio de algunos capitulos.
+  
 
 ## Elaborado por MANUEL APARICIO ERNESTO GERARDO #CONTROL: 18210497
 
